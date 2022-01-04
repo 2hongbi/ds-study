@@ -1,3 +1,4 @@
+# ex.6-1 (p.149) MINST 분류 모델 학습
 # 필요한 모듈 임포트
 import tensorflow as tf
 import matplotlib.pyplot as plt

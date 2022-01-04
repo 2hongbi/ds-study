@@ -1,3 +1,4 @@
+# ex 6-2 (p.157) MNIST 분류 모델 파일 불러오기
 from tensorflow.keras.datasets import mnist
 from tensorflow.keras.models import load_model
 import matplotlib.pyplot as plt
