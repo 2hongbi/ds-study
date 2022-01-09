@@ -3,7 +3,7 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="$USER_HOME$/Downloads/서울시CCTV설치운영현황(자치구)_년도별_210731기준.csv">
+        <entry key="/data/CCTV_in_Seoul.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
